@@ -1,0 +1,73 @@
+Communications & Computations 4G & Beyond
+Aug 2015
+Tags: Wireless, Research, 4G
+
+
+Dr. Sendil Kumar
+Sr. Research Engineer, CEWiT
+@iamssk
+
+* Quick History 
+
+*Cellular*Network* 
+- Objective to provide voice
+- Mobile as Modem
+- Primary Data Consumption - Internet, Higher Processing on smart phones
+
+*Today*
+- More Applications e.g ??
+- More Users/sqm
+- More Devices/Users
+
+* Network
+.image images/bs_system.png 300 _
+- More Cells - Sectorization
+- More Antennas
+- Advanced Receivers
+
+* What do you see ?
+.image images/SIR.jpg 500 _
+.caption Single Cell Spatial Heat Map
+
+* 4G Networks
+*Network*
+
+- HETNET
+- Small Cell
+- DAS
+
+*Applications*
+- Instant Messaging (WhatsApp, Telegram, Viber)
+- Push Notifications (GeoFence, Apps)
+- Short Video Streams (Vimeo, Social N/w, Periscope)
+- Video Calls (Hybrid Device) (HDTV-Mobile-tablets, Smartwatches)
+- Background Traffic 
+
+* Challenging Scenarios
+.image images/5gscenario.png
+.caption 5G Network Deployment cases
+
+* Follow Users
+.image images/narrowbeam.png
+.caption Narrow beam(s) actively serving users
+
+* Active Antennas Soft Sectors
+.image images/virtualsectors.png
+.caption More soft Sectorization
+
+* Beyond 4G
+- Cloud RAN
+- Virtualization of NE
+- Smart Antennas (100 Antennas ??)
+- Multi RAT
+- M2M Applications
+- IoT
+- Drones 3D Cells
+- Machine Learning
+
+* Ready for Tomorrow
+- Strong in fundamentals 
+- Read beyond books
+- Get Hands-on
+- Attempt small problems of Bigger 
+- Inter-disciplinary 
