@@ -8,4 +8,4 @@ Download the present tool
 $GOPATH/bin/present 
 
 You can also view this online here 
-https://go-talks.appspot.com/github.com/wiless/talks/ccet.slide
+https://go-talks.appspot.com/github.com/wiless/talks/ccet/ccet.slide
